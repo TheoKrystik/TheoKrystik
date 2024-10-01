@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>About Me<h1>
+    <p>I am a Graphic Design Major. I have experience in video making and video editing self taught from a YouTube channel. I enjoy to go to the gym and snowboard on my free time.<p>
+    
