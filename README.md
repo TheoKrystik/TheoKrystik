@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![alt text](<github profile-1.png>)
 <h3>About Me</h3>
     <p>Hi, my name is Theo, I am a Graphic Design Major. I have experience in video making and video editing self taught from a YouTube channel. I enjoy to go to the gym and snowboard on my free time.</p>
 <h3>Fun Facts</h3>
@@ -23,4 +24,5 @@ Here are some ideas to get you started:
     <li>🎥 I like videography/Photography</li>
     <li>🌄 I like to Travel</li>
     <li>🖌️ I like to draw </li>
+
 
